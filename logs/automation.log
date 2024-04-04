@@ -1,0 +1,13 @@
+14:19:55.563 [main] INFO  TestBase.baseClass - closing the browser
+14:32:17.631 [main] INFO  TestCases.TC001_beCognizant - ***** starting TC001_beCognizant *****
+14:32:23.219 [main] INFO  TestCases.TC001_beCognizant - Navigated to OneCognizant
+14:32:27.231 [main] INFO  TestCases.TC001_beCognizant - opened on Chrome.....
+14:32:27.232 [main] INFO  TestCases.TC001_beCognizant - clicked on search Icon
+14:32:35.961 [main] INFO  TestCases.TC001_beCognizant - Navigated to timesheet
+14:32:43.200 [main] INFO  TestBase.baseClass - closing the browser
+14:33:37.940 [main] INFO  TestCases.TC001_beCognizant - ***** starting TC001_beCognizant *****
+14:33:43.522 [main] INFO  TestCases.TC001_beCognizant - Navigated to OneCognizant
+14:33:47.535 [main] INFO  TestCases.TC001_beCognizant - opened on Edge.....
+14:33:47.535 [main] INFO  TestCases.TC001_beCognizant - clicked on search Icon
+14:33:53.228 [main] INFO  TestCases.TC001_beCognizant - Navigated to timesheet
+14:34:00.429 [main] INFO  TestBase.baseClass - closing the browser
